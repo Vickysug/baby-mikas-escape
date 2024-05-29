@@ -30,9 +30,13 @@ I chose the singer Mika.
 
 For the project the aim was to use AI, mainly Rosebud AI (https://play.rosebud.ai/home)
 
-On the platform a developer can clone games created by other developers and change them for their own purpose. I chose to use a game called Fall Boy. 
+On the platform a developer can clone games created by other developers and change them for their own purpose. 
+
+I chose to use a game called Fall Boy, Evolved from: 2D Playground, Created by: AdamBrody.
 
 ![alt text](images/fall.boy.rb.png)
 
 Although Rosebud can generate AI images, I created all mine in Photoshop. 
 Rosebud also allows the AI chat to change code, however, this didn't work for me so I went into the code myself and changed it. 
+
+If I were to expand the game further, it would include more levels including a level with a Parisian scene, and an older Mika collecting misical notes. 
